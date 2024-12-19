@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Okitegami Portafolio",
   description: "Portafolio de muestra de okitegami",
+  icons:{
+    icon:"icon-app.webp"
+  }
 };
 
 export default function RootLayout({
